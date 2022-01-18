@@ -1,5 +1,5 @@
 objectid,filename,youtubeid,title,creator,date,media,description,subject,location,latitude,longitude,source,physical_id,dimensions,type,format,language,rights,rightsstatement,display_template
-stt001,/objects/img_1374.jpg,,Untitled,Stephen Takats,1995-06-29,oil on board, trees in snow,trees;snow,,,,private collection,845,"12""x16""",Image;StillImage,image/jpeg,eng,,rights,image
+stt001,img_1374.jpg,,Untitled,Stephen Takats,1995-06-29,oil on board, trees in snow,trees;snow,,,,private collection,845,"12""x16""",Image;StillImage,image/jpeg,eng,,rights,image
 stt002,/objects/img_1370.jpg,,Untitled,Stephen Takats,2007-07-31,oil on board," Exercise in greens: road through cornfields""",trees ,,,,private collection,841,"10""x14""",Image;StillImage,image/jpeg,eng,,rights,image
 stt003,/objects/img_1377.jpg,,Untitled,Stephen Takats,2006-02-26,oil on board, house and telelphone poles; winter,house; telephone pole; winter,,,,private collection,847,"10""x14""",Image;StillImage,image/jpeg,eng,,rights,image
 stt004,/objects/img_1373.jpg,,Untitled,Stephen Takats,2007-06-01,oil on board, tree study*,trees,Morris Arboretum,40.089311,-75.22265,private collection,844,"10""x14""",Image;StillImage,image/jpeg,eng,,rights,image
